@@ -3,7 +3,7 @@ module.exports = [
     id: 1,
     name: "Warehouse One",
     position: "Store Owner",
-    manager: "John Doe",
+    manager: "John Dode",
     address: "456 Granville St, Toronto, ON",
     phone: "123-456-7890",
     email: "john.doe@gmail.com",
